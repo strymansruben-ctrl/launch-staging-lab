@@ -1,0 +1,6 @@
+{
+  "stages": [
+    {"name": "booster", "dry_kg": 22000, "propellant_kg": 270000, "isp_s": 300},
+    {"name": "upper", "dry_kg": 4000, "propellant_kg": 72000, "isp_s": 350}
+  ]
+}
